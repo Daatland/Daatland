@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- **iOS – MyLifeStyle**  
+  iOS app for tracking calories and daily health habits, built with SwiftUI.  
+  👉 https://github.com/Daatland/MyLifeStyle
+
+
 - <b>-Android programming(https://github.com/Daatland/MyAndroidApp.git)</b>
  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
