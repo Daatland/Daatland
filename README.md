@@ -23,4 +23,6 @@ Hi, I'm Marcus! 👋
 ---
 
 ## 🤝 Connect with me
-<!-- Add LinkedIn / email / portfolio here -->
+- 💼 LinkedIn: www.linkedin.com/in/marcus-olsen-daatland
+- 📧 Email: modaatland@gmail.com
+
